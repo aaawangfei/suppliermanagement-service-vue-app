@@ -1,0 +1,30 @@
+.dark-font {
+  color: #666666;
+}
+.black-font {
+  color: #333333 ;
+}
+.light-font {
+  color: #999999 ;
+}
+.line-color {
+  color: #f2f2f2 ;
+}
+
+.small-size {
+  font-size: 12px ;
+}
+
+.van-cell__title {
+  width: 100%;
+}
+
+.line {
+  background: #f2f2f2;
+  margin: 0px ;
+  padding: 0px ;
+  height: 1px;
+}
+.bold-line {
+  height: 8px ;
+}
